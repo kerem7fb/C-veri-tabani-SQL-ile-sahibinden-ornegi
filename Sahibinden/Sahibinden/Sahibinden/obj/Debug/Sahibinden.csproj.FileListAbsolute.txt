@@ -1,0 +1,18 @@
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Sahibinden\Sahibinden\bin\Debug\Sahibinden.pdb
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Sahibinden\Sahibinden\obj\Debug\Sahibinden.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Sahibinden\Sahibinden\obj\Debug\Sahibinden.pdb
+C:\Users\user\Desktop\10-M\Sahibinden\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe.config
+C:\Users\user\Desktop\10-M\Sahibinden\Sahibinden\Sahibinden\obj\Debug\Sahibinden.exe
+C:\Users\user\Desktop\10-M\Sahibinden\Sahibinden\Sahibinden\obj\Debug\Sahibinden.pdb
+C:\Users\user\Desktop\10-M\Sahibinden\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe
+C:\Users\user\Desktop\10-M\Sahibinden\Sahibinden\Sahibinden\bin\Debug\Sahibinden.pdb
+C:\Users\user\Desktop\10-M\Sahibinden\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Sahibinden\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Form1.resources
+C:\Users\user\Desktop\10-M\Sahibinden\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Sahibinden\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csproj.GenerateResource.Cache
